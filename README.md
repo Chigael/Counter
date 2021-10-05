@@ -1,0 +1,2 @@
+# Counter
+JavaScript counter project
